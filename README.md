@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Eduardo 👋
+
+
+♠ I'm A full-stack Web Developer🧑‍💻
+♠ Giving a big jump from construction field to technology for the oportunity to reach my dream job 😎
+♠ In love with nature and especially the beach 🏖️
+
+♠ How to contact me:
+    My [linkedin](https://www.linkedin.com/in/eduardo-salinas-hospinal/)
+    My [email](mailto:eduardosh43@gmail.com)
+
 
 <!--
 **eduardo4394/eduardo4394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
