@@ -1,13 +1,17 @@
-### Hi there, I'm Eduardo 👋
+### Hi there, I'm Eduardo Salinas 👋
 
 
 ♠ I'm A full-stack Web Developer🧑‍💻
+
 ♠ Giving a big jump from construction field to technology for the oportunity to reach my dream job 😎
+
 ♠ In love with nature and especially the beach 🏖️
 
+♠ Technologys currently using are: JS / RoR / NodeJs / React / Express
+
 ♠ How to contact me:
-    My [linkedin](https://www.linkedin.com/in/eduardo-salinas-hospinal/)
-    My [email](mailto:eduardosh43@gmail.com)
+    ○ My [linkedin](https://www.linkedin.com/in/eduardo-salinas-hospinal/)
+    ○ My [email](mailto:eduardosh43@gmail.com)
 
 
 <!--
