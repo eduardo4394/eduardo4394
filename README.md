@@ -10,8 +10,8 @@
 ♠ Technologys currently using are: JS / RoR / NodeJs / React / Express
 
 ♠ How to contact me:
-    - My [linkedin](https://www.linkedin.com/in/eduardo-salinas-hospinal/)
-    - My [email](mailto:eduardosh43@gmail.com)
++ My [linkedin](https://www.linkedin.com/in/eduardo-salinas-hospinal/)
++ My [email](mailto:eduardosh43@gmail.com)
 
 
 <!--
